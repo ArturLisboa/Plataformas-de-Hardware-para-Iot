@@ -14,3 +14,11 @@ O repositório explora diferentes ecossistemas de hardware e software para desen
 * **Periféricos & Sensores:** Leituras via ADC, PWM, sensores ultrassônicos (ex: HC-SR04), barramentos de comunicação e atuadores.
 
 ---
+
+## Participantes 
+
+O Reposítorio tem como colabores alguns participantes do grupo para as práticas e projetos
+
+* Artur Eduardo Lisboa Trigueiro (https://github.com/ArturLisboa)
+
+* Francisco Matheus Fonseca De Farias (https://github.com/FranciscoMatheus26)
