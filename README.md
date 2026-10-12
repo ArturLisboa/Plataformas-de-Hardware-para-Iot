@@ -1,6 +1,6 @@
 # 🌐 Plataformas de Hardware para Internet das Coisas (IoT)
 
-Repositório dedicado ao estudo, desenvolvimento e documentação de projetos voltados para **Plataformas de Hardware para Internet das Coisas (IoT)**. Aqui você encontrará códigos, exemplos práticos e guias focados na integração de microcontroladores, sensores, atuadores e protocolos de comunicação voltados para ambientes embarcados.
+Repositório dedicado ao estudo, desenvolvimento e documentação de projetos voltados para **Plataformas de Hardware para Internet das Coisas (IoT)**. Aqui você encontrará códigos e exemplos práticos focados na integração de microcontroladores, sensores, atuadores e protocolos de comunicação voltados para ambientes embarcados.
 
 ---
 
