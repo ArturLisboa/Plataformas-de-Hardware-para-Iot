@@ -1,0 +1,16 @@
+# 🌐 Plataformas de Hardware para Internet das Coisas (IoT)
+
+Repositório dedicado ao estudo, desenvolvimento e documentação de projetos voltados para **Plataformas de Hardware para Internet das Coisas (IoT)**. Aqui você encontrará códigos, exemplos práticos e guias focados na integração de microcontroladores, sensores, atuadores e protocolos de comunicação voltados para ambientes embarcados.
+
+---
+
+## 🚀 Tecnologias e Ferramentas Utilizadas
+
+O repositório explora diferentes ecossistemas de hardware e software para desenvolvimento embarcado:
+
+* **Microcontroladores & SoCs:** ESP32, ESP8266, Arduino (AVR), entre outras plataformas de prototipagem rápida.
+* **Linguagens:** C e C++ (com foco em eficiência de baixo nível, gerenciamento de memória e manipulação de registradores/periféricos).
+* **Ambientes de Desenvolvimento (IDEs):** Arduino IDE, PlatformIO e VS Code.
+* **Periféricos & Sensores:** Leituras via ADC, PWM, sensores ultrassônicos (ex: HC-SR04), barramentos de comunicação e atuadores.
+
+---
